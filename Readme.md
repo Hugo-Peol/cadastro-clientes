@@ -11,5 +11,5 @@
 * Salvar os dados em MySql 
 * Tratar erros e exceções
 * Melhorar layout
-* Definir campos como Telefone para o padrao "( )    -    "
+* Definir campos como Telefone para o padrão "( )    -    "
 * ...
